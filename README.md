@@ -12,13 +12,19 @@
 
 ### 📬 Conéctate conmigo
 
+
+
 <p align="left">
   <a href="mailto:lerj.2710@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://linkedin.com/in/lerodriguezj-2710"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="tel:+5511941814696"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Teléfono"></a
-<a href="tel:+584245978943"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Teléfono"></a>                                                                                                                                        
+ <!-- WhatsApp Brasil -->
+  <a href="https://wa.me/5511941814696"><img src="https://img.shields.io/badge/WhatsApp-%2B55_%28BR%29-555555?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Brasil"></a>  
+  <!-- WhatsApp Venezuela -->
+  <a href="https://wa.me/584245978943"><img src="https://img.shields.io/badge/WhatsApp-%2B58_%28VE%29-555555?style=flat-square&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Venezuela"></a>
+  
+  
+  
 </p>
-
 ---
 
 ## 🛠️ Habilidades Técnicas
