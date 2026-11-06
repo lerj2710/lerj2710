@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Luis Enrique Rodríguez Jiménez!
+# 👋 ¡Hola, soy Luis Rodríguez!
 
 <p align="left">
   <img src="https://img.shields.io/badge/📍_Ubicación-São_Paulo%2C_SP_(Sacomã)-blueviolet?style=flat-square" alt="Ubicación">
@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/🎓_Estudiante-Maestría_en_IA_(UCLA)-success?style=flat-square" alt="Estudio">
 </p>
 
-> **Ingeniero en Informática** con más de **8 años de experiencia** en análisis de datos, desarrollo back-end y soporte técnico en los sectores de Franquicias, Alimentos y Auditorias tanto en el sector público, privado y tecnológico. Especializado en convertir datos complejos en decisiones estratégicas y construir APIs escalables.
+> **Ingeniero en Informática** con trayectoria en análisis de datos *(Data Science)*, desarrollo back-end y soporte técnico en los sectores público y privado. Especializado en transformar datos complejos en decisiones estratégicas, con enfoque en modelos de franquicias, industria alimentaria y auditorías. Experiencia sólida en la construcción de modelos predictivos, desarrollo de APIs escalables, sistemas de videovigilancia e implementación de mantenimiento preventivo.
 
 ---
 
